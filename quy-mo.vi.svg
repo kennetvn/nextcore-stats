@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="466" viewBox="0 0 820 466" role="img" aria-label="homestaynextcore.org — quy mô, đếm lại mỗi lần push">
+<style>
+  :root{--nen:#FFFFFF;--chu:#16181D;--phu:#5B6270;--ke:#D5D9E0;--nhan:#0277B3}
+  @media (prefers-color-scheme: dark){:root{--nen:#0D1117;--chu:#E6EDF3;--phu:#9AA4B2;--ke:#30363D;--nhan:#4FB8EC}}
+  svg{background:var(--nen)} text{font:14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:var(--chu)}
+  .h{font-size:17px;font-weight:600;fill:var(--nhan)} .b{font-weight:600} .m{fill:var(--phu);font-size:13px}
+  .so{font-variant-numeric:tabular-nums} .ke{stroke:var(--ke)}
+</style>
+<rect width="100%" height="100%" rx="8" fill="var(--nen)" stroke="var(--ke)"/>
+<text x="24" y="36" class="h">homestaynextcore.org — quy mô, đếm lại mỗi lần push</text>
+<text x="24" y="56" class="m">đếm 2026-10-11 01:06 UTC · tệp git theo dõi · dòng không trống</text>
+<text x="24" y="86" class="m"></text>
+<text x="520" y="86" class="so m" text-anchor="end">Tệp</text>
+<text x="796" y="86" class="so m" text-anchor="end">Dòng</text>
+<text x="24" y="110" class="">Ứng dụng web (Next.js + Prisma)</text>
+<text x="520" y="110" class="so " text-anchor="end">6.508</text>
+<text x="796" y="110" class="so " text-anchor="end">765.446</text>
+<text x="24" y="134" class="">9 extension trình duyệt</text>
+<text x="520" y="134" class="so " text-anchor="end">615</text>
+<text x="796" y="134" class="so " text-anchor="end">142.230</text>
+<line x1="24" x2="796" y1="141" y2="141" class="ke"/>
+<text x="24" y="158" class="b">Tổng</text>
+<text x="520" y="158" class="so b" text-anchor="end">7.123</text>
+<text x="796" y="158" class="so b" text-anchor="end">907.676</text>
+<text x="40" y="182" class="m">TypeScript / JavaScript</text>
+<text x="796" y="182" class="so m" text-anchor="end">605.331</text>
+<text x="40" y="206" class="m">CSS</text>
+<text x="796" y="206" class="so m" text-anchor="end">161.392</text>
+<text x="40" y="230" class="m">SQL migration, sửa dữ liệu, Prisma</text>
+<text x="796" y="230" class="so m" text-anchor="end">37.486</text>
+<text x="40" y="254" class="m">test (1.057 tệp)</text>
+<text x="796" y="254" class="so m" text-anchor="end">98.054</text>
+<text x="40" y="278" class="m">HTML, shell</text>
+<text x="796" y="278" class="so m" text-anchor="end">5.413</text>
+<text x="24" y="306">238 trang · 906 route API · 295 model · 548 migration · 12.743 commit</text>
+<text x="24" y="346" class="b">Ước tính chi phí làm lại (COCOMO) — bậc độ lớn, không phải định giá</text>
+<text x="24" y="372" class="m"></text>
+<text x="340" y="372" class="so m" text-anchor="end">người-tháng</text>
+<text x="500" y="372" class="so m" text-anchor="end"></text>
+<text x="660" y="372" class="so m" text-anchor="end">lương VN¹</text>
+<text x="796" y="372" class="so m" text-anchor="end">lương Mỹ²</text>
+<text x="24" y="396" class="">code trừ CSS và test (648.230)</text>
+<text x="340" y="396" class="so " text-anchor="end">2.150</text>
+<text x="500" y="396" class="so " text-anchor="end">46 tháng · ~47 người</text>
+<text x="660" y="396" class="so " text-anchor="end">≈ 4,8 triệu USD</text>
+<text x="796" y="396" class="so " text-anchor="end">≈ 24,2 triệu USD</text>
+<text x="24" y="420" class="">toàn bộ (907.676)</text>
+<text x="340" y="420" class="so " text-anchor="end">3.062</text>
+<text x="500" y="420" class="so " text-anchor="end">53 tháng · ~58 người</text>
+<text x="660" y="420" class="so " text-anchor="end">≈ 6,9 triệu USD</text>
+<text x="796" y="420" class="so " text-anchor="end">≈ 34,5 triệu USD</text>
+<text x="24" y="446" class="m">¹ 1.500 USD/tháng × 1,5 chi phí kèm · ² mặc định scc: 56.286 USD/năm × 2,4</text>
+</svg>
