@@ -1,0 +1,71 @@
+{
+  "doLuc": "2026-10-31T14:06:58.348Z",
+  "web": {
+    "tep": 7608,
+    "dong": 834286,
+    "tsjs": 528202,
+    "css": 155492,
+    "sql": 40599,
+    "test": 107349,
+    "khac": 2644,
+    "tepTest": 1246
+  },
+  "ext": {
+    "tep": 634,
+    "dong": 144512,
+    "tsjs": 117621,
+    "css": 8309,
+    "sql": 0,
+    "test": 15527,
+    "khac": 3055,
+    "tepTest": 126
+  },
+  "ncb": {
+    "tep": 1620,
+    "dong": 319810,
+    "tsjs": 218512,
+    "css": 42092,
+    "sql": 0,
+    "test": 59044,
+    "khac": 162,
+    "tepTest": 490,
+    "toolMcp": 132,
+    "banPhatHanh": 143
+  },
+  "tong": {
+    "tep": 9862,
+    "dong": 1298608,
+    "tsjs": 864335,
+    "css": 205893,
+    "sql": 40599,
+    "test": 181920,
+    "khac": 5861,
+    "tepTest": 1862
+  },
+  "soExt": 9,
+  "beMat": {
+    "trang": 254,
+    "routeApi": 1042,
+    "model": 314,
+    "migration": 632
+  },
+  "commit": 17003,
+  "cocomo": {
+    "loi": {
+      "nguoiThang": 3073,
+      "thang": 53,
+      "nguoi": 58,
+      "usdVn": 6914892,
+      "usdMy": 34596590,
+      "dong": 910795
+    },
+    "tatCa": {
+      "nguoiThang": 4460,
+      "thang": 61,
+      "nguoi": 73,
+      "usdVn": 10035655,
+      "usdMy": 50210391,
+      "dong": 1298608
+    }
+  }
+}
